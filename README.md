@@ -1,0 +1,1 @@
+This Odin-recipes REPO is gonna be used to create my custom recipes website as part of the ODIN academy HTML HTML5 CSS COURSE to test my knowledge of HTML Basics , i m not going to be using any CSS on this project , it going to be a basic website but i m going to style text , create tables , create a great website layout , and utilize most of what i learned 
